@@ -1,0 +1,17 @@
+{
+  "name": "2---viradadechaves",
+  "version": "1.0.0",
+  "description": "Aqui está tudo que estou aprendendo no módulo de JavaScript do curso da OneBitCode.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^9.8.0"
+  }
+}
